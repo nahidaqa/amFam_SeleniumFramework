@@ -1,0 +1,15 @@
+// driver.manage().window().fullscreen(); // fullscreen the window
+// driver.navigate().to("https://www.connectbyamfam.com/"); //Alternative way to  open url
+// select.selectByIndex(0); //Alternative way to  select from drop-down
+/*
+		 * // DON'T DELETE; KEEP FOR FUTURE
+		    //driver.findElement(By.xpath("//button[contains(text(),'Get a Quote')]")). click();
+		    //driver.findElement(By.xpath("//button[contains(text(),'Get a Quote')]")).getText(); 
+		    // Initialize and wait till element(link) became clickable -timeout in 10 seconds 
+		 *WebElement getQuoteClick = new WebDriverWait(driver,
+		 * Duration.ofSeconds(10)) .until(ExpectedConditions.elementToBeClickable(By.
+		 * xpath("//button[normalize-space()='Get a Quote']"))); 
+		 // System.out.println(getQuoteClick.getText()); 
+		 // getQuoteClick.click();
+*/ 
+// driver.close(); //Alternative method to close
