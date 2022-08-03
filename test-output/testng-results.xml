@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-02T18:51:20 EDT" name="Default suite" finished-at="2022-08-02T18:51:29 EDT" duration-ms="8965">
+  <suite started-at="2022-08-02T22:35:15 EDT" name="Default suite" finished-at="2022-08-02T22:35:33 EDT" duration-ms="18197">
     <groups>
     </groups>
-    <test started-at="2022-08-02T18:51:20 EDT" name="Default test" finished-at="2022-08-02T18:51:29 EDT" duration-ms="8965">
+    <test started-at="2022-08-02T22:35:15 EDT" name="Default test" finished-at="2022-08-02T22:35:33 EDT" duration-ms="18197">
       <class name="com.amfam.selenium.AmFamTest">
-        <test-method signature="seleniumTest()[pri:0, instance:com.amfam.selenium.AmFamTest@44821a96]" started-at="2022-08-02T18:51:20 EDT" name="seleniumTest" finished-at="2022-08-02T18:51:29 EDT" duration-ms="8939" status="PASS">
+        <test-method signature="homePage()[pri:1, instance:com.amfam.selenium.AmFamTest@a3d8174]" started-at="2022-08-02T22:35:15 EDT" name="homePage" finished-at="2022-08-02T22:35:26 EDT" duration-ms="11062" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- seleniumTest -->
+        </test-method> <!-- homePage -->
+        <test-method signature="policyHolderDetailsYou()[pri:2, instance:com.amfam.selenium.AmFamTest@a3d8174]" started-at="2022-08-02T22:35:26 EDT" name="policyHolderDetailsYou" finished-at="2022-08-02T22:35:33 EDT" duration-ms="7103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- policyHolderDetailsYou -->
       </class> <!-- com.amfam.selenium.AmFamTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

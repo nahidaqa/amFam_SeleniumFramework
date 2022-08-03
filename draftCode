@@ -12,4 +12,10 @@
 		 // System.out.println(getQuoteClick.getText()); 
 		 // getQuoteClick.click();
 */ 
+/*
+WebElement getQuoteClick = driver.findElement(By.xpath("//button[normalize-space()='Get a Quote']"));
+		System.out.println(getQuoteClick.getText());
+		getQuoteClick.click();
+*/
 // driver.close(); //Alternative method to close
+
