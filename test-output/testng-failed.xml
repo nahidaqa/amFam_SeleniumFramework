@@ -5,7 +5,8 @@
     <classes>
       <class name="com.amfam.selenium.AmFamTest">
         <methods>
-          <include name="seleniumTest"/>
+          <include name="policyHolderDetailsDriver"/>
+          <include name="policyHolderDetailsYou"/>
         </methods>
       </class> <!-- com.amfam.selenium.AmFamTest -->
     </classes>

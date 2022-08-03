@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-02T22:35:15 EDT" name="Default suite" finished-at="2022-08-02T22:35:33 EDT" duration-ms="18197">
+  <suite started-at="2022-08-03T00:45:09 EDT" name="Default suite" finished-at="2022-08-03T00:45:31 EDT" duration-ms="22718">
     <groups>
     </groups>
-    <test started-at="2022-08-02T22:35:15 EDT" name="Default test" finished-at="2022-08-02T22:35:33 EDT" duration-ms="18197">
+    <test started-at="2022-08-03T00:45:09 EDT" name="Default test" finished-at="2022-08-03T00:45:31 EDT" duration-ms="22718">
       <class name="com.amfam.selenium.AmFamTest">
-        <test-method signature="homePage()[pri:1, instance:com.amfam.selenium.AmFamTest@a3d8174]" started-at="2022-08-02T22:35:15 EDT" name="homePage" finished-at="2022-08-02T22:35:26 EDT" duration-ms="11062" status="PASS">
+        <test-method signature="homePage()[pri:1, instance:com.amfam.selenium.AmFamTest@732c2a62]" started-at="2022-08-03T00:45:09 EDT" name="homePage" finished-at="2022-08-03T00:45:19 EDT" duration-ms="10800" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homePage -->
-        <test-method signature="policyHolderDetailsYou()[pri:2, instance:com.amfam.selenium.AmFamTest@a3d8174]" started-at="2022-08-02T22:35:26 EDT" name="policyHolderDetailsYou" finished-at="2022-08-02T22:35:33 EDT" duration-ms="7103" status="PASS">
+        <test-method signature="policyHolderDetailsYou()[pri:2, instance:com.amfam.selenium.AmFamTest@732c2a62]" started-at="2022-08-03T00:45:19 EDT" name="policyHolderDetailsYou" finished-at="2022-08-03T00:45:26 EDT" duration-ms="7033" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- policyHolderDetailsYou -->
+        <test-method signature="policyHolderDetailsDriver()[pri:3, instance:com.amfam.selenium.AmFamTest@732c2a62]" started-at="2022-08-03T00:45:27 EDT" name="policyHolderDetailsDriver" finished-at="2022-08-03T00:45:31 EDT" duration-ms="4605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- policyHolderDetailsDriver -->
+        <test-method signature="tearUp()[pri:4, instance:com.amfam.selenium.AmFamTest@732c2a62]" started-at="2022-08-03T00:45:31 EDT" name="tearUp" finished-at="2022-08-03T00:45:31 EDT" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
       </class> <!-- com.amfam.selenium.AmFamTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

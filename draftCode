@@ -19,3 +19,8 @@ WebElement getQuoteClick = driver.findElement(By.xpath("//button[normalize-space
 */
 // driver.close(); //Alternative method to close
 
+// continue button 1>   
+//span[contains(text(),'Continue')]
+// click button>2
+//driver.findElement(By.xpath("//span[normalize-space()='Continue']")).click();
+
